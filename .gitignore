@@ -1,0 +1,12 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+mvnw
+mvnw.card
+.mvn
+data
+mysql
+mvnw.cmd
+docker-compose.yml
+docker
